@@ -1,0 +1,12 @@
+-Cari hareket ekranında kredi kartı fişinde hesap id yazmıyor sonra bakılacak
+-Banka Hareket Ekranı yapılacak
+
+
+**21.07.2022
+-Bordro modülü sona kalsın çünkü çok karışık
+-Kasa modülünden devam edilecek
+-Daha sonra daha kolay modüller yapılacak
+
+****20220830
+(+)-satış fişi güncellemede hata var,
+(+)-alış fişi,talep,satisteklifi,alisteklifi,satissiparisi modüllerinde birim güncellemesi yapılacak
